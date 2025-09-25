@@ -81,7 +81,7 @@
     "babel-loader": "9.2.1",
     "chai": "4.5.0",
     "chai-as-promised": "7.1.2",
-    "codeceptjs": "3.7.4",
+    "codeceptjs": "3.7.5",
     "copy-webpack-plugin": "13.0.1",
     "css-loader": "6.8.1",
     "debug": "4.4.3",
